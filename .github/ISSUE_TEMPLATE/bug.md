@@ -13,3 +13,6 @@ assignees: ''
 
 ## Screenshots do Bug :camera_flash:
 >Se possível adicionar alguns screenshots do bug.
+
+
+:poop: Não se esqueça de adicionar o Github Project, Labels e os Reviewers.

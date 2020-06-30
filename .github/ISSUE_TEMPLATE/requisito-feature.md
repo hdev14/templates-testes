@@ -21,3 +21,6 @@ assignees: ''
 
 ## Links úteis :pushpin:
 >Adicione alguns links úteis, como documentos, imagens, vídeos, etc.
+
+
+:poop: Não se esqueça de adicionar o Github Project, Labels e os Reviewers.
