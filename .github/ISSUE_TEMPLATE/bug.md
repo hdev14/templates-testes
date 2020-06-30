@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Crie uma nova issue para reportar um bug.
-title: "[BUG] - Título da Bug"
+title: "[BUG] - Título do Bug"
 labels: bug
 assignees: ''
 
