@@ -11,7 +11,7 @@ assignees: ''
 :pencil: Escreva aqui a descrição detalhada do requisito/feature. :pencil:
 </p>
 
-## Usuários Envolvidos :busts_in_silhouette:
+## Usuários Envolvidos (opcional) :busts_in_silhouette:
 > Ex.: Cliente, Administrador, etc.
 
 ## Regras de Negócio :construction:
